@@ -49,3 +49,5 @@ By Yasuhiro Hoshino
 yasuhiro.hoshino.0122 at gmail.com
 
 http://www.yasuhirohoshino.com
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/hoshino-of-equirectangular)
